@@ -37,4 +37,14 @@ void PrintArray(string[] array)
         Console.WriteLine();
     }
 }
-
+void PrintMessage(string[] array)
+{
+    Console.WriteLine("Исходный массив: ");
+    PrintArray(array);
+    Console.WriteLine();
+    string[] newArray = FindNewArray(array);
+    Console.WriteLine("Искомый массив: ");
+    PrintArray(newArray);
+    Console.WriteLine();
+}
+PrintMessage(arr);
