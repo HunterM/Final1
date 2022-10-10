@@ -8,6 +8,6 @@
 # 5. Печатаем массив.
 
 
-<kbd>![Блок схема](https://drive.google.com/file/d/1KqOIhrwyf-PTDa51pPoce3kCL77FZW7s/view?usp=sharing "Блок схема выполнения работы")</kbd>
+<kbd>![Блок схема]("D:\final control work 1\final1.jpg" "Блок схема выполнения работы")</kbd>
 
 
